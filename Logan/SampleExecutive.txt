@@ -1,0 +1,2 @@
+03/03/2012	3:59	"C:\Documents and Settings\quigley\Desktop\Solar Data Project Files\VIs\SampleInput.txt"	"C:\Documents and Settings\quigley\Desktop\Solar Data Project Files\VIs"	ID
+03/03/2012	4:51	"C:\Documents and Settings\quigley\Desktop\Solar Data Project Files\VIs\AnotherInput.txt"	"C:\Documents and Settings\quigley\Desktop\Solar Data Project Files\VIs"	ID
