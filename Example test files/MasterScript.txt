@@ -1,4 +1,0 @@
-3/16/2012	11:30:00 AM	C:\Documents and Settings\quigley\SolarTests\ConstantVoltageTest.txt	C:\Documents and Settings\quigley\SolarTests\TestOutput1.txt	Voltage
-3/16/2012	11:33:00 AM	C:\Documents and Settings\quigley\SolarTests\ConstantCurrentTest.txt	C:\Documents and Settings\quigley\SolarTests\TestOutput2.txt	Current
-3/16/2012	11:34:00 AM	C:\Documents and Settings\quigley\SolarTests\ConstantPowerTest.txt	C:\Documents and Settings\quigley\SolarTests\TestOutput3.txt	Power
-3/16/2012	11:35:00 AM	C:\Documents and Settings\quigley\SolarTests\ConstantResistanceTest.txt	C:\Documents and Settings\quigley\SolarTests\TestOutput4.txt	Resistance
